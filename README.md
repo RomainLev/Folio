@@ -11,6 +11,12 @@ Il sera composé de plusieurs pages :
 * Page de mes précédents travaux
 * Page de contact
 Il sera également agrémenté d'une Navbar afin d'assurer une navigation simple et clair pour l'utilisateur.
+Utilisation de flexbox pour une mise en page pratique et responsive.
+
+
+
+
+
 
 
 
